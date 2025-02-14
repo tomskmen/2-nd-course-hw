@@ -1,0 +1,209 @@
+@media (max-width: 766.9px) {
+  .center {
+    padding-left: 16px;
+    padding-right: 16px;
+  }
+}
+.headermob {
+  max-width: 100%;
+  max-height: 700px;
+  background: rgb(225, 255, 143);
+  background-repeat: no-repeat;
+  overflow: hidden;
+}
+
+.priv {
+  position: relative;
+  width: 343px;
+  top: -238px;
+  text-align: center;
+  padding-left: 23px;
+}
+.priv__title {
+  font-size: 40px;
+  font-weight: 700;
+  width: 100%;
+  padding-bottom: 24px;
+}
+.priv__text {
+  font-size: 16px;
+  font-weight: 400;
+  padding-bottom: 48px;
+}
+.priv__text-bold {
+  font-weight: 600;
+}
+.priv-butt {
+  width: 285px;
+  height: 55px;
+  border: 1px solid rgb(32, 32, 39);
+  border-radius: 60px;
+  background: rgb(32, 32, 39);
+  color: #FFFFFF;
+  font-size: 16px;
+  font-weight: 600;
+  text-align: center;
+  margin-bottom: 156px;
+  font-family: "Montserrat";
+}
+
+.left {
+  padding-left: 91px;
+  position: absolute;
+  top: 64px;
+}
+
+.leftbig {
+  padding-left: 37px;
+  padding-top: 97px;
+}
+
+.rightbig {
+  position: absolute;
+  padding-left: 303px;
+  top: 580px;
+}
+
+.right {
+  padding-left: 273px;
+  position: absolute;
+  top: 557px;
+}
+
+.big {
+  position: relative;
+  overflow: hidden;
+  padding-left: calc(100% - 187px + 16px + 16px);
+  top: -239px;
+}
+
+.scrollmob {
+  box-sizing: border-box;
+  display: flex;
+  align-items: flex-start;
+  padding: 16px 24px;
+  gap: 6px;
+  position: absolute;
+  width: 1717.4px;
+  height: 51.34px;
+  left: calc(50% - 858.7px + 665.2px);
+  top: calc(100% - 28px);
+  background: #BCEC30;
+  border: 0.537198px solid rgba(255, 255, 255, 0.2);
+  backdrop-filter: blur(13.4299px);
+}
+.scrollmob__text {
+  color: rgb(32, 32, 39);
+  font-size: 16px;
+  font-weight: 700;
+  text-transform: uppercase;
+  padding-right: 24px;
+  padding-left: 24px;
+}
+
+.overflow-hidden {
+  overflow-x: hidden;
+}
+
+.miniigra {
+  position: absolute;
+  width: 375px;
+  height: 3822px;
+  left: 0px;
+  top: 700px;
+  background: #202027;
+}
+
+.mini-igra {
+  display: flex;
+  flex-direction: column;
+  align-items: flex-start;
+  padding: 0px;
+  gap: 24px;
+  position: absolute;
+  width: 343px;
+  left: 16px;
+  margin-top: 48px;
+}
+
+.mini-igra_title {
+  display: flex;
+  flex-direction: column;
+  align-items: flex-start;
+  padding: 0px;
+  gap: 24px;
+  font-size: 40px;
+  font-family: Montserrat;
+  font-weight: 700;
+  color: #FFFFFF;
+}
+
+.mini-igralka {
+  width: 100%;
+  height: 100%;
+  background: #FFFFFF;
+  border-radius: 30px;
+}
+
+.box-text {
+  width: 285px;
+  margin: 29px 29px 32px 29px;
+}
+
+.mob-text {
+  font-weight: 700;
+  font-size: 32px;
+  color: #202027;
+  justify-self: start;
+  display: flex;
+}
+
+.mob-textt {
+  font-weight: 400;
+  font-size: 16px;
+  color: #000000;
+  justify-self: start;
+  display: flex;
+  padding-top: 16px;
+  padding-bottom: 48px;
+}
+
+.priv-butts {
+  width: 285px;
+  height: 55px;
+  border: 1px solid rgb(32, 32, 39);
+  border-radius: 60px;
+  background: rgb(32, 32, 39);
+  color: #FFFFFF;
+  font-size: 16px;
+  font-weight: 600;
+  text-align: center;
+  font-family: "Montserrat";
+}
+
+.footermob {
+  position: absolute;
+  width: 100%;
+  height: 100px;
+  top: 4521px;
+  background: #BDED35;
+}
+
+.footer-mob {
+  font-weight: 600;
+  font-size: 16px;
+  display: flex;
+  justify-content: center;
+  padding-top: 40px;
+}
+
+@media (min-width: 768px) and (max-width: 2670px) {
+  .mobill {
+    display: none;
+  }
+}
+@media (min-width: 350px) and (max-width: 768.9px) {
+  .osnova {
+    display: none;
+  }
+}/*# sourceMappingURL=mobaile.css.map */
